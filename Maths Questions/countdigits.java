@@ -4,7 +4,6 @@ class countdigits
 {
 	public static int Totaldigits(int num)
 	{
-		int digit=0;
 		int count=0;
 
 		while(num>0)
