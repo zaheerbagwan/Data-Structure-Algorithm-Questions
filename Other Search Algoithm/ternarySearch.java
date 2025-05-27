@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class ternarySearch
+class jumpSearch
 {
 	public static boolean search(int arr[], int target, int n)
 	{
